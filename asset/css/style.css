@@ -175,3 +175,23 @@ section{
     height: auto;
      width: 100%;
 }
+
+.social-links{
+    padding-bottom: 15px;
+}
+
+.social-links li a i{
+    width: 62px;
+    height: 62px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 29px;
+    line-height: 38px;
+    text-align: center;
+    color: #012935;
+    background: #b8bab9;
+ }
+
+.social-links li a i:hover{
+    background-color: #3b5998;
+}
