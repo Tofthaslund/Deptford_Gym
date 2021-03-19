@@ -40,3 +40,28 @@ The website is created with HTML5 & CSS3, and made responsive with Bootstrap.
 
 
 ---
+
+### Technologies
+
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- Google Fonts
+
+[Back To The Top](#Deptford-Gym)
+
+---
+## Deployment
+
+This project was deployed using GitHub Pages.
+
+To deploy this page to GitHuB Pages from its GitHub repository, the following steps were taken:
+
+1. Log into GitHub
+2. From the list of repositiores on the screen, select **Tofthaslund/Deptford-Gym**.
+3. From the menu items near the top of the page, select **Settings**.
+4. Scroll down to the **Github Pages** section.
+5. Under **Source**, click the dropdown menu labelled **None** and select **Master Branch**.
+6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the **GitHub Pages** section to retrive the link to the deployed website.
