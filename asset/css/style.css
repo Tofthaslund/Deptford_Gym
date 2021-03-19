@@ -163,3 +163,15 @@ section{
      font-family: 'Itim', cursive;
  }
  
+
+ /*-----------------------------------Footer*/
+
+ footer{
+    background-color: #666666;
+    color: #fffffb;
+     position: absolute;
+    left: 0;
+     bottom: 0;
+    height: auto;
+     width: 100%;
+}
