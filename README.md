@@ -92,7 +92,11 @@ To clone this project from GitHub:
 
 
 ---
+## Testing
 
+- [W3C CSS validation](https://jigsaw.w3.org/css-validator/)
+- [W3C Markup Validation](https://validator.w3.org/)
+  - The delevoper has used W3C CSS validation and W3C Markup Validation to check the validity of the website code.
 
 
 Testing client stories from UX section of README.md 
