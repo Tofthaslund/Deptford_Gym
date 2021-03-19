@@ -112,3 +112,54 @@ section{
     margin-right: 20px;
     font-family: 'Itim', cursive;
 }
+
+.block-middle{
+    background-color: rgba(0, 0, 0, 0.85);
+    display: inline-block;
+    text-align: justify;
+    margin-bottom: 25px;
+    width: 60%;
+ }
+ 
+ .block-middle ul{
+     list-style: none;
+     text-decoration: underline;
+ }
+ 
+ .block-middle ul li{
+     text-decoration: underline;
+     margin-left: -35px;
+ }
+ 
+ .block-middle h3{
+     text-align: center;
+     color: #bebd88;
+     font-family: 'Roboto', sans-serif;
+ }
+ 
+ .block-middle p{
+     margin-left: 20px;
+     margin-right: 20px;
+     font-family: 'Itim', cursive;
+ }
+ 
+ .block-bottom{
+    background-color: rgba(0, 0, 0, 0.85);
+    display: inline-block;
+    text-align: justify;
+    margin-bottom: 25px; 
+    width: 60%;
+ }
+ 
+ .block-bottom h3{
+     text-align: center;
+     color: #bebd88;
+     font-family: 'Roboto', sans-serif;
+ }
+ 
+ .block-bottom p{
+     margin-left: 20px;
+     margin-right: 20px;
+     font-family: 'Itim', cursive;
+ }
+ 
