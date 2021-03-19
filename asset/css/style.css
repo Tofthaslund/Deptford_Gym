@@ -249,6 +249,28 @@ section{
     height: 800px;
 }
 
+.let{
+    color:#fff;
+    text-align: center;
+    margin-top: 150px;
+    background-color: rgba(0, 0, 0, 0.65);
+    padding: 20px 50px 20px 50px;
+    width: 60%;
+    border-radius: 30px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.button{
+    padding: 5px 20px 5px 20px;
+    background-color: #f16c6b;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.button:hover{
+    background-color: #fafafa;
+    color: #f16c6b;
+  }
+
  /*-----------------------------------Footer*/
 
  footer{
