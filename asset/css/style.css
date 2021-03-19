@@ -179,6 +179,17 @@ section{
 }
 
 
+/*--------------------------signup.html*/
+
+
+.form-section{
+    clear: left;
+    background: url(../images/np_Woman-fitness-coach-monitoring-runner-with-mask-on-treadmill-in-laboratory_0JoBd5_free.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
  /*-----------------------------------Footer*/
 
  footer{
