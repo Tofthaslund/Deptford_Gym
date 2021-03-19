@@ -302,3 +302,71 @@ section{
 .social-links li a i:hover{
     background-color: #3b5998;
 }
+
+/*----------Media*/
+
+@media screen and (max-width: 1281px){
+    #photo{
+        column-count:4;
+    }
+    #container{
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    #photo{
+        column-count:2;
+    }
+    #container{
+        height: 1000px;
+    }
+    .block-top{
+        width: 100%;
+    }
+    .block-middle{
+        width: 100%;
+    }
+    .block-bottom{
+        width: 100%;
+    }
+   .form-section{
+       height: 1000px;
+   }
+}
+
+@media screen and (max-width: 800px){
+    #photo{
+        column-count: 2;
+    }
+    .block-top{
+        width: 100%;
+    }
+    .block-middle{
+        width: 100%;
+    }
+    .block-bottom{
+        width: 100%;
+    }
+    #section{
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 540px){
+    #photo{
+        column-count: 2;
+    }
+    .block-top{
+        width: 105%;
+    }
+    .block-middle{
+        width: 105%;
+    }
+    .block-bottom{
+        width: 105%;
+    }
+   #container{
+       height: 1050px;
+   }
+}
