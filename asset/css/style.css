@@ -163,6 +163,21 @@ section{
      font-family: 'Itim', cursive;
  }
  
+/*-----------------Gallery.html*/
+
+#photo{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    background-color: #666666;
+}
+
+#photo img{
+    height: 300px;
+    width: 100%;
+}
+
 
  /*-----------------------------------Footer*/
 
