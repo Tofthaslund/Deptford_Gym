@@ -23,3 +23,20 @@ The website is created with HTML5 & CSS3, and made responsive with Bootstrap.
 - As a user, I want to see different pictures of people in the gym.
 - As a user, I want to be able to sign up for a PT session and get an introduction at the gym.
 --
+
+### Wireframes
+- Desktop:
+- [Index](asset/wireframes/desktop/home-page.png)
+- [Gallery](asset/wireframes/desktop/gallery-page.png)
+- [Sign-Up](asset/wireframes/desktop/sign-up-page.png)
+- Tablet:
+- [Index](asset/wireframes/tablet/home-page.png)
+- [Gallery](asset/wireframes/tablet/gallery-page.png)
+- [Sign-Up](asset/wireframes/tablet/sign-up-page.png)
+- Phone:
+- [Index](asset/wireframes/mobile/home-page.png)
+- [Gallery](asset/wireframes/mobile/gallery-page.png)
+- [Sign-Up](asset/wireframes/mobile/sign-up-page.png)
+
+
+---
