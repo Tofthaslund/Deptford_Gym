@@ -4,6 +4,19 @@
 
 ---
 
+### Table of Contents
+You're sections headers will be used to reference location of destination.
+
+- [Description](#description)
+- [UX](#ux)
+- [Technologies](#technologies)
+- [Deployment](#deployment)
+- [Testing](#testing)
+- [References](#references)
+- [Features to be implemeted in the future](#features-to-be-implemeted-in-the-future)
+- [Author Info](#author-info)
+
+---
 
 ## Description
 
@@ -174,4 +187,31 @@ Testing client stories from UX section of README.md
 - Pass/Fail: **Pass**
 
 ---
+
+## References
+A number of external sites and/or templets has been used doing this project.
+
+- README template by [Jack Q Quick](https://github.com/jamesqquick) 
+- Pictures from [The Noun Project](https://thenounproject.com/)
+- Icons from [Font Awesome](https://fontawesome.com/)
+- Font Style from [Google Font](https://fonts.google.com/)
+
+[Back To The Top](#Deptford-Gym)
+
+---
+### Features to be implemeted in the future
+
+- Login page for current members 
+- Page with Classes overview 
+- Ability to book a class
+- Payment setup options for different memberships 
+
+[Back To The Top](#Deptford-Gym)
+
+---
+
+## Author Info
+
+- Twitter - [@lasse090892](https://twitter.com/lasse090892)
+- Github - [Lasse Toft Haslund](https://github.com/Tofthaslund)
 
