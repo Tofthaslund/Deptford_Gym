@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0 0 100px; 
+}
+
+/*--------------------- Heading*/
+
+
+.heading{
+    background-color: #d5d5d3;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.heading a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.location{
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+#nav{
+    background-color: #b8bab9;
+    text-align: center;
+    margin: 0;
+    list-style-type: none;
+    font-size: 20px; 
+}
+
+#nav li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    
+}
+
+#nav li:hover{
+    background-color: #012935;
+}
+
+#nav li a{
+   text-decoration: none;
+   color: #fffffb;
+   font-stretch: expanded;
+}
+
+#nav li i{
+    margin-left: 10px;
+}
