@@ -239,6 +239,16 @@ section{
   }
   
 
+
+/*--------------Lets go*/
+
+#thumb{
+    background: url(../images/np_Outdoor-shot-of-young-man-giving-high-five-to-a-woman_482870_free.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
  /*-----------------------------------Footer*/
 
  footer{
