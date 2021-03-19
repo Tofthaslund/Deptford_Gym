@@ -69,6 +69,15 @@ body {
 
 /*--------------------------------------------------------------index.html*/
 
+section{
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+#container{
+    height: 100%;
+    background-color: #d5d5d3;
+}
 
 .centre-image{
     clear: left;
@@ -76,4 +85,30 @@ body {
     background-size:cover;
     background-position: center;
     height: 900px;
+}
+
+.text-bloks{
+    padding: 20px 50px 20px 50px;
+    text-align: center;
+    color: #877f7d;
+}
+
+.block-top{
+   background-color: rgba(0, 0, 0, 0.85);
+    display: inline-block;
+    text-align: justify;
+    margin-bottom: 25px;
+    width: 60%;
+}
+
+.block-top h3{
+    text-align: center;
+    color: #bebd88;
+    font-family: 'Roboto', sans-serif;
+}
+
+.block-top p{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Itim', cursive;
 }
