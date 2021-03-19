@@ -65,3 +65,17 @@ To deploy this page to GitHuB Pages from its GitHub repository, the following st
 5. Under **Source**, click the dropdown menu labelled **None** and select **Master Branch**.
 6. On selecting Master Branch the page is automatically refreshed, the website is now deployed.
 7. Scroll back down to the **GitHub Pages** section to retrive the link to the deployed website.
+
+### How to run this project locally?
+
+To clone this project from GitHub:
+
+1. Log into GitHub.
+2. At the top search bar, search for **"Tofthaslund/Deptford-Gym"**.
+3. You will land on the **Code** section of the repository.
+4. Click on the **Code** dropdown menu, just above the README file.
+5. Click on the clipboard next the the URL.
+6. Paste that into our local IDE of choice 
+
+
+---
