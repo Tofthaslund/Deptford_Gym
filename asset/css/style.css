@@ -65,3 +65,15 @@ body {
 #nav li i{
     margin-left: 10px;
 }
+
+
+/*--------------------------------------------------------------index.html*/
+
+
+.centre-image{
+    clear: left;
+    background: url(../images/np_Young-woman-in-the-gym-working-out-with-a-kettlebell_25nPmb_free.jpg);
+    background-size:cover;
+    background-position: center;
+    height: 900px;
+}
